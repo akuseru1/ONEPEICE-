@@ -2,6 +2,7 @@ import pygame
 import sys
 import math
 
+
 pygame.init()
 
 WIDTH, HEIGHT = 1000, 600
